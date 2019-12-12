@@ -1,0 +1,23 @@
+{
+    "name": "1212",
+    "dependencies": {
+        "1122": "github:15416/pxt-1129#c4501c1b3a1c0822f8b2f6672dc91362dbc42d2c",
+        "core": "*",
+        "radio": "*",
+        "Grove": "github:seeed-studio/pxt-grove#v0.1.5",
+        "microbit-GY521": "github:pauldfoster/pxt-microbit-gy521#269554f64c3180dcde135c04cddb3a83148a96c9",
+        "CooCoo": "github:alsrobot-microbit-makecode-packages/coocoo#1.1.0",
+        "pxt-kitronik-servo-lite": "github:kitronikltd/pxt-kitronik-servo-lite#v1.0.5",
+        "ky040": "github:tinkertanker/pxt-rotary-encoder-ky040#v1.1.0"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
